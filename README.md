@@ -2,7 +2,6 @@
 
 ## O que foi desenvolvido
 
-- Implementar uma página web que contém uma paleta de cores funcional que poderá ser utilizada para criar desenhos em pixels. Para isto foi utilizado `javascript`.
 - Produzir código legível, conciso e expressivo utilizando as novas funcionalidades do ES6;
 - Utilizar as _Higher Order Functions_ para manipular e criar arrays;
 - Escolher a _Higher Order Function_ mais adequada para a obtenção de um resultado esperado;
@@ -12,5 +11,5 @@
 
 ## Habilidades Desenvolvidas
 
-- Manipular o DOM
-- Manipular o Javascript
+- Manipular o `DOM`
+- Manipular o `Javascript`
